@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/sola/work/code/rifengGit/rifeng_anquan_rn/node_modules/react-native-local-barcode-recognizer-wu/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/sola/.gradle/caches/transforms-3/39fcf685fa4c948af0b0f044cfc64e49/transformed/appcompat-1.0.2/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sola/work/code/rifengGit/rifeng_anquan_rn/node_modules/react-native-local-barcode-recognizer-wu/android/build/intermediates/merged_res/release/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/sola/.gradle/caches/transforms-3/39fcf685fa4c948af0b0f044cfc64e49/transformed/appcompat-1.0.2/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

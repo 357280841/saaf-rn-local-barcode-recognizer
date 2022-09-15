@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/sola/work/code/rifengGit/rifeng_anquan_rn/node_modules/react-native-local-barcode-recognizer-wu/android/build/intermediates/merged_res/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/sola/.gradle/caches/transforms-3/dd9785076db1fb8af2e3860178b1a2f9/transformed/jetified-react-native-0.68.1/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/sola/work/code/rifengGit/rifeng_anquan_rn/node_modules/react-native-local-barcode-recognizer-wu/android/build/intermediates/merged_res/release/anim/catalyst_slide_up.xml",
+        "source": "/Users/sola/.gradle/caches/transforms-3/dd9785076db1fb8af2e3860178b1a2f9/transformed/jetified-react-native-0.68.1/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/sola/work/code/rifengGit/rifeng_anquan_rn/node_modules/react-native-local-barcode-recognizer-wu/android/build/intermediates/merged_res/release/anim/abc_popup_exit.xml",
+        "source": "/Users/sola/.gradle/caches/transforms-3/39fcf685fa4c948af0b0f044cfc64e49/transformed/appcompat-1.0.2/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/sola/work/code/rifengGit/rifeng_anquan_rn/node_modules/react-native-local-barcode-recognizer-wu/android/build/intermediates/merged_res/release/anim/abc_fade_in.xml",
+        "source": "/Users/sola/.gradle/caches/transforms-3/39fcf685fa4c948af0b0f044cfc64e49/transformed/appcompat-1.0.2/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/sola/work/code/rifengGit/rifeng_anquan_rn/node_modules/react-native-local-barcode-recognizer-wu/android/build/intermediates/merged_res/release/anim/catalyst_fade_in.xml",
+        "source": "/Users/sola/.gradle/caches/transforms-3/dd9785076db1fb8af2e3860178b1a2f9/transformed/jetified-react-native-0.68.1/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/sola/work/code/rifengGit/rifeng_anquan_rn/node_modules/react-native-local-barcode-recognizer-wu/android/build/intermediates/merged_res/release/anim/catalyst_slide_down.xml",
+        "source": "/Users/sola/.gradle/caches/transforms-3/dd9785076db1fb8af2e3860178b1a2f9/transformed/jetified-react-native-0.68.1/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/sola/work/code/rifengGit/rifeng_anquan_rn/node_modules/react-native-local-barcode-recognizer-wu/android/build/intermediates/merged_res/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/sola/.gradle/caches/transforms-3/dd9785076db1fb8af2e3860178b1a2f9/transformed/jetified-react-native-0.68.1/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/sola/work/code/rifengGit/rifeng_anquan_rn/node_modules/react-native-local-barcode-recognizer-wu/android/build/intermediates/merged_res/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/sola/.gradle/caches/transforms-3/39fcf685fa4c948af0b0f044cfc64e49/transformed/appcompat-1.0.2/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/sola/work/code/rifengGit/rifeng_anquan_rn/node_modules/react-native-local-barcode-recognizer-wu/android/build/intermediates/merged_res/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/sola/.gradle/caches/transforms-3/39fcf685fa4c948af0b0f044cfc64e49/transformed/appcompat-1.0.2/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/sola/work/code/rifengGit/rifeng_anquan_rn/node_modules/react-native-local-barcode-recognizer-wu/android/build/intermediates/merged_res/release/anim/abc_tooltip_enter.xml",
+        "source": "/Users/sola/.gradle/caches/transforms-3/39fcf685fa4c948af0b0f044cfc64e49/transformed/appcompat-1.0.2/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/sola/work/code/rifengGit/rifeng_anquan_rn/node_modules/react-native-local-barcode-recognizer-wu/android/build/intermediates/merged_res/release/anim/abc_tooltip_exit.xml",
+        "source": "/Users/sola/.gradle/caches/transforms-3/39fcf685fa4c948af0b0f044cfc64e49/transformed/appcompat-1.0.2/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/sola/work/code/rifengGit/rifeng_anquan_rn/node_modules/react-native-local-barcode-recognizer-wu/android/build/intermediates/merged_res/release/anim/abc_fade_out.xml",
+        "source": "/Users/sola/.gradle/caches/transforms-3/39fcf685fa4c948af0b0f044cfc64e49/transformed/appcompat-1.0.2/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/sola/work/code/rifengGit/rifeng_anquan_rn/node_modules/react-native-local-barcode-recognizer-wu/android/build/intermediates/merged_res/release/anim/abc_popup_enter.xml",
+        "source": "/Users/sola/.gradle/caches/transforms-3/39fcf685fa4c948af0b0f044cfc64e49/transformed/appcompat-1.0.2/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/sola/work/code/rifengGit/rifeng_anquan_rn/node_modules/react-native-local-barcode-recognizer-wu/android/build/intermediates/merged_res/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/sola/.gradle/caches/transforms-3/39fcf685fa4c948af0b0f044cfc64e49/transformed/appcompat-1.0.2/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/sola/work/code/rifengGit/rifeng_anquan_rn/node_modules/react-native-local-barcode-recognizer-wu/android/build/intermediates/merged_res/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/sola/.gradle/caches/transforms-3/39fcf685fa4c948af0b0f044cfc64e49/transformed/appcompat-1.0.2/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/sola/work/code/rifengGit/rifeng_anquan_rn/node_modules/react-native-local-barcode-recognizer-wu/android/build/intermediates/merged_res/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/sola/.gradle/caches/transforms-3/39fcf685fa4c948af0b0f044cfc64e49/transformed/appcompat-1.0.2/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/sola/work/code/rifengGit/rifeng_anquan_rn/node_modules/react-native-local-barcode-recognizer-wu/android/build/intermediates/merged_res/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/sola/.gradle/caches/transforms-3/39fcf685fa4c948af0b0f044cfc64e49/transformed/appcompat-1.0.2/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/sola/work/code/rifengGit/rifeng_anquan_rn/node_modules/react-native-local-barcode-recognizer-wu/android/build/intermediates/merged_res/release/anim/catalyst_fade_out.xml",
+        "source": "/Users/sola/.gradle/caches/transforms-3/dd9785076db1fb8af2e3860178b1a2f9/transformed/jetified-react-native-0.68.1/res/anim/catalyst_fade_out.xml"
+    }
+]
